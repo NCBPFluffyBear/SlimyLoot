@@ -2,19 +2,19 @@ options:
   auto-update: true
 
 #The IDs for the drops to put in the config can be found
-#by holding the item and doing /slimyloot id in game.
+#by holding the item and doing "/slimyloot id" in game.
 #Drops from killing mobs. Chance ranges from 0 to 1.
 kill-drops-chance: 1
 kill-drops:
 - NUCLEAR_REACTOR
 - ELECTRIC_MOTOR
 #Drops from breaking blocks. Chance ranges from 0 to 1.
-break-drops-chance: 1
+break-drops-chance: 0
 break-drops:
 - NUCLEAR_REACTOR
 - ELECTRIC_MOTOR
 #Drops from fishing. Chance ranges from 0 to 1.
-fish-drops-chance: 1
+fish-drops-chance: 0
 fish-drops:
 - NUCLEAR_REACTOR
 - ELECTRIC_MOTOR
